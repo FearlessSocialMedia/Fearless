@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "633541052804",
+    "project_id": "healanddeal-591d6",
+    "storage_bucket": "healanddeal-591d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633541052804:android:6a9734805ff2a1623f35d1",
+        "android_client_info": {
+          "package_name": "com.example.fearless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633541052804-5tmla8b1jomfri71k1qm3npa1738ves2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHcZx0h9NpgSFZb9ePDO28S5vkVbA5Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633541052804-5tmla8b1jomfri71k1qm3npa1738ves2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633541052804-6kjol5sr2jpgp38280glgdrbohp1hk9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healAndDealVersion1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633541052804:android:0a0de847b07b1bd23f35d1",
+        "android_client_info": {
+          "package_name": "com.example.heal_and_deal_version1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633541052804-5tmla8b1jomfri71k1qm3npa1738ves2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHcZx0h9NpgSFZb9ePDO28S5vkVbA5Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633541052804-5tmla8b1jomfri71k1qm3npa1738ves2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633541052804-6kjol5sr2jpgp38280glgdrbohp1hk9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healAndDealVersion1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633541052804:android:05883921639409803f35d1",
+        "android_client_info": {
+          "package_name": "com.example.healanddeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633541052804-9jptchj3gduao7k0ijv109t0n983manh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healanddeal",
+            "certificate_hash": "6e604f85723f3eb0b55b251a0b05cae256838b0c"
+          }
+        },
+        {
+          "client_id": "633541052804-5tmla8b1jomfri71k1qm3npa1738ves2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHcZx0h9NpgSFZb9ePDO28S5vkVbA5Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633541052804-5tmla8b1jomfri71k1qm3npa1738ves2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633541052804-6kjol5sr2jpgp38280glgdrbohp1hk9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healAndDealVersion1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
